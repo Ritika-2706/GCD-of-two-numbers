@@ -37,7 +37,8 @@ y=int(input())
 print("GCD of two numbers is:",gcd())
 
 ## Output:
-![gcd of two number](GCD.png)
+![GCD](https://user-images.githubusercontent.com/93427238/150797762-663079bb-f2e2-4685-9f71-f7d5993c75a1.PNG)
+
 
 
 ## Result:
